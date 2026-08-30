@@ -126,3 +126,40 @@ Final Reel
         ↓
 Social Media Promotion
 
+🏆 Internship Credentials
+Credential	Details
+Role	        Social Media Marketing Intern
+Organization	IGCSEMark
+Duration	1 August 2026 – 29 August 2026
+Work Mode	Remote
+Certificate	Certificate of Internship – Social Media Marketing
+Issued By	IGCSEMark
+Date Issued	29 August 2026
+Reporting To	Daiwik Kandpal, Founder & CEO
+
+
+📑 Report Structure
+The internship report is organized into the following sections:
+
+Candidate's Declaration
+Acknowledgement
+Internship Completion Certificate
+Project Description
+4.1 Introduction
+4.2 Organization Profile
+4.3 Problem Statement
+4.4 Project Objectives
+4.5 Scope of the Project
+4.6 Technologies and Tools Used
+4.7 Social Media Marketing Workflow
+4.8 Methodology
+4.9 Expected Outcomes
+4.10 Certificates of Completion and Communication Proof
+Bibliography / References
+
+🙏 Acknowledgement
+
+I would like to express my sincere gratitude to Daiwik Kandpal, Founder & CEO of IGCSEMark, for providing me with the opportunity to work as a Social Media Marketing Intern and gain practical experience in content creation, marketing, and brand promotion.
+I am thankful for the guidance, feedback, and support provided throughout the internship. The experience helped me understand the practical aspects of social media marketing and digital content creation.
+I am also thankful to IILM University, Greater Noida, and the School of Computer Science and Engineering for their continuous support and encouragement.
+This internship was a valuable learning experience that helped me develop both creative and professional skills.
